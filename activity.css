@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+button{
+    margin: 15px;
+}
+
+div{
+    margin: auto;
+    padding-top: 50px;
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+}
