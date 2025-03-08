@@ -23,3 +23,7 @@ This is a simple web-based **Random Color Generator** that generates a new rando
 3. See the random color displayed and applied to the div.  
 
 ## 📂 Project Structure  
+Random_Color_Generator/ │── activity.html # Main HTML file
+│── activity.css # Styling file
+│── activity.js # JavaScript logic
+│── README.md # Project documentation
